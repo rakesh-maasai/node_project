@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "rakesh-maasai",
+        "projectKey": "rakesh-maasai_node_project"
+    }
+}
